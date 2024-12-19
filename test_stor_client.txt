@@ -1,0 +1,1 @@
+test stor from client to server being server started in another dir
